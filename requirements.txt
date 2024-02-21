@@ -1,0 +1,13 @@
+pandas 
+notebook #open notebook inside vscode thats why using 
+numpy
+scikit-learn
+matplotlib
+python-box==6.0.2
+pyYAML    #to load yaml files and convert them this package is using
+ensure==1.0.2
+joblib  #want to save model as joblin format . canalso use pickle format
+types-PyYAML
+Flask  # to create API
+Flask-Cors
+-e . #to install setup.py file , use it ,, it is forlocal package setup i.e. setup.py file
